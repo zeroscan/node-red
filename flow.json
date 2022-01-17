@@ -34,7 +34,8 @@
             [
                 "d1b22c6a6d0e3420",
                 "96de0edf565c2bf4",
-                "a030713abf539763"
+                "a030713abf539763",
+                "ad4cb3a5b3b9afbb"
             ]
         ]
     },
@@ -84,6 +85,22 @@
         "statusType": "auto",
         "x": 420,
         "y": 260,
+        "wires": []
+    },
+    {
+        "id": "ad4cb3a5b3b9afbb",
+        "type": "debug",
+        "z": "d038539115921282",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 440,
+        "y": 320,
         "wires": []
     }
 ]
